@@ -1,28 +1,30 @@
 package Controller;
 
+
 import java.time.LocalTime;
-import java.util.ArrayList;
 
-public class Buses {
-
-    public int linea;
+public abstract class Buses {
+    public int numero;
     public String ruta;
-    public LocalTime hora;
-    public ArrayList<Buses> listaBuses;
+    public LocalTime horaSalida;
 
-    public Buses(int linea, String ruta, LocalTime hora) {
-        this.linea = linea;
+    public Buses(int numero, String ruta, LocalTime horaSalida) {
+        this.numero = numero;
         this.ruta = ruta;
-        this.hora = hora;
+        this.horaSalida = horaSalida;
     }
 
-    public LocalTime getHora() {
-        return hora;
+    public int getNumero() {
+        return numero;
     }
 
-    @Override
-    public String toString() {
-        return "Linea: " + linea + ", Ruta: " + ruta + ", Hora: " + hora;
+    public String getRuta() {
+        return ruta;
     }
 
+    public LocalTime getHoraSalida() {
+        return horaSalida;
+    }
+
+    public abstract void mostrarInformacion();
 }

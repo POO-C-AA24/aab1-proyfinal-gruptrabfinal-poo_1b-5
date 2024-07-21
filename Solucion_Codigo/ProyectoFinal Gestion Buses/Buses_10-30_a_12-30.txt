@@ -1,0 +1,41 @@
+Bus{id=22, ruta='Época - Campus UTPL', horaSalida=06:30, tipo=Urbano}
+Bus{id=21, ruta='Operadores - Campus UTPL', horaSalida=06:30, tipo=Interurbano}
+Bus{id=8, ruta='Parque Infantil - Campus UTPL', horaSalida=07:00, tipo=Urbano}
+Bus{id=1, ruta='Parque Infantil - Campus UTPL', horaSalida=07:00, tipo=Interurbano}
+Bus{id=19, ruta='Hipervalle - Campus UTPL', horaSalida=07:30, tipo=Urbano}
+Bus{id=12, ruta='Tebaida Baja - Campus UTPL', horaSalida=07:30, tipo=Interurbano}
+Bus{id=13, ruta='Coliseo Ciudad de Loja - Campus UTPL', horaSalida=08:00, tipo=Urbano}
+Bus{id=2, ruta='Pradera - Campus UTPL', horaSalida=08:00, tipo=Interurbano}
+Bus{id=9, ruta='Canchas Calva y Calva - Campus UTPL', horaSalida=08:30, tipo=Urbano}
+Bus{id=20, ruta='Las Pitas - Campus UTPL', horaSalida=08:30, tipo=Interurbano}
+Bus{id=10, ruta='Ciudad Alegría - Campus UTPL', horaSalida=09:00, tipo=Urbano}
+Bus{id=15, ruta='Operadores - Campus UTPL', horaSalida=09:00, tipo=Interurbano}
+Bus{id=3, ruta='Pradera - Campus UTPL', horaSalida=09:30, tipo=Urbano}
+Bus{id=23, ruta='Rosales - Campus UTPL', horaSalida=09:30, tipo=Interurbano}
+Bus{id=7, ruta='Ciudad Alegría - Campus UTPL', horaSalida=10:00, tipo=Urbano}
+Bus{id=20, ruta='Sauces Norte - Campus UTPL', horaSalida=10:00, tipo=Interurbano}
+Bus{id=18, ruta='Sauces Norte - Campus UTPL', horaSalida=10:30, tipo=Urbano}
+Bus{id=24, ruta='Sauces Norte - Campus UTPL', horaSalida=10:30, tipo=Interurbano}
+Bus{id=19, ruta='Hipervalle - Campus UTPL', horaSalida=11:00, tipo=Urbano}
+Bus{id=33, ruta='Campus UTPL - La Urna', horaSalida=11:00, tipo=Interurbano}
+Bus{id=32, ruta='Campus UTPL - La Urna', horaSalida=11:30, tipo=Urbano}
+Bus{id=31, ruta='Campus UTPL - La Urna', horaSalida=11:30, tipo=Interurbano}
+Bus{id=14, ruta='Lauro Guerreo - Campus UTPL', horaSalida=12:00, tipo=Urbano}
+Bus{id=85, ruta='Campus UTPL - Operadores', horaSalida=12:00, tipo=Interurbano}
+Bus{id=83, ruta='Campus UTPL - Daniel Álvarez', horaSalida=12:30, tipo=Urbano}
+Bus{id=88, ruta='Campus UTPL - Operadores', horaSalida=12:30, tipo=Interurbano}
+Bus{id=91, ruta='Campus UTPL - Daniel Álvarez', horaSalida=13:00, tipo=Urbano}
+Bus{id=68, ruta='Campus UTPL - Rosales', horaSalida=13:30, tipo=Interurbano}
+Bus{id=70, ruta='Campus UTPL - Rosales', horaSalida=14:00, tipo=Urbano}
+Bus{id=98, ruta='Campus UTPL - Sauces Norte', horaSalida=14:30, tipo=Interurbano}
+Bus{id=76, ruta='Campus UTPL - Terminal Terrestre', horaSalida=15:00, tipo=Urbano}
+Bus{id=96, ruta='Campus UTPL - Ciudad Alegría', horaSalida=15:30, tipo=Interurbano}
+Bus{id=63, ruta='Campus UTPL - Benjamín Carrión', horaSalida=16:00, tipo=Urbano}
+Bus{id=40, ruta='Campus UTPL - Ciudad Alegría', horaSalida=16:30, tipo=Interurbano}
+Bus{id=95, ruta='Campus UTPL - San Pedro', horaSalida=17:00, tipo=Urbano}
+Bus{id=68, ruta='Campus UTPL - Ciudad Alegría', horaSalida=17:00, tipo=Interurbano}
+Bus{id=65, ruta='Campus UTPL - Rosales', horaSalida=18:00, tipo=Urbano}
+Bus{id=98, ruta='Campus UTPL - Rosales', horaSalida=18:30, tipo=Interurbano}
+Bus{id=38, ruta='Campus UTPL - Estadio', horaSalida=19:00, tipo=Urbano}
+Bus{id=80, ruta='Campus UTPL - Estadio', horaSalida=19:30, tipo=Interurbano}
+Bus{id=45, ruta='Campus UTPL - Sauces Norte', horaSalida=20:00, tipo=Urbano}

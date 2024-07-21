@@ -1,0 +1,41 @@
+Linea: 22, Ruta: Época - Campus UTPL, Hora: 06:30
+Linea: 21, Ruta: Operadores - Campus UTPL, Hora: 06:30
+Linea: 8, Ruta: Parque Infantil - Campus UTPL, Hora: 07:00
+Linea: 1, Ruta: Parque Infantil - Campus UTPL, Hora: 07:00
+Linea: 19, Ruta: Hipervalle - Campus UTPL, Hora: 07:30
+Linea: 12, Ruta: Tebaida Baja - Campus UTPL, Hora: 07:30
+Linea: 13, Ruta: Coliseo Ciudad de Loja - Campus UTPL, Hora: 08:00
+Linea: 2, Ruta: Pradera - Campus UTPL, Hora: 08:00
+Linea: 9, Ruta: Canchas Calva y Calva - Campus UTPL, Hora: 08:30
+Linea: 20, Ruta: Las Pitas - Campus UTPL, Hora: 08:30
+Linea: 10, Ruta: Ciudad Alegría - Campus UTPL, Hora: 09:00
+Linea: 15, Ruta: Operadores - Campus UTPL, Hora: 09:00
+Linea: 3, Ruta: Pradera - Campus UTPL, Hora: 09:30
+Linea: 23, Ruta: Rosales - Campus UTPL, Hora: 09:30
+Linea: 7, Ruta: Ciudad Alegría - Campus UTPL, Hora: 10:00
+Linea: 20, Ruta: Sauces Norte - Campus UTPL, Hora: 10:00
+Linea: 18, Ruta: Sauces Norte - Campus UTPL, Hora: 10:30
+Linea: 24, Ruta: Sauces Norte - Campus UTPL, Hora: 10:30
+Linea: 19, Ruta: Hipervalle - Campus UTPL, Hora: 11:00
+Linea: 33, Ruta: Campus UTPL - La Urna, Hora: 11:00
+Linea: 32, Ruta: Campus UTPL - La Urna, Hora: 11:30
+Linea: 31, Ruta: Campus UTPL - La Urna, Hora: 11:30
+Linea: 14, Ruta: Lauro Guerreo - Campus UTPL, Hora: 12:00
+Linea: 85, Ruta: Campus UTPL -  Operadores, Hora: 12:00
+Linea: 83, Ruta: Campus UTPL - Daniel Álvarez, Hora: 12:30
+Linea: 88, Ruta: Campus UTPL -  Operadores, Hora: 12:30
+Linea: 91, Ruta: Campus UTPL - Daniel Álvarez, Hora: 13:00
+Linea: 68, Ruta: Campus UTPL - Rosales, Hora: 13:30
+Linea: 70, Ruta: Campus UTPL - Rosales, Hora: 14:00
+Linea: 98, Ruta: Campus UTPL - Sauces Norte, Hora: 14:30
+Linea: 76, Ruta: Campus UTPL - Terminal Terrestre, Hora: 15:00
+Linea: 96, Ruta: Campus UTPL - Ciudad Alegría, Hora: 15:30
+Linea: 63, Ruta: Campus UTPL - Benjamín Carrión, Hora: 16:00
+Linea: 40, Ruta: Campus UTPL - Ciudad Alegría, Hora: 16:30
+Linea: 95, Ruta: Campus UTPL - San Pedro, Hora: 17:00
+Linea: 68, Ruta: Campus UTPL - Ciudad Alegría, Hora: 17:00
+Linea: 65, Ruta: Campus UTPL - Rosales, Hora: 18:00
+Linea: 98, Ruta: Campus UTPL - Rosales, Hora: 18:30
+Linea: 38, Ruta: Campus UTPL - Estadio, Hora: 19:00
+Linea: 80, Ruta: Campus UTPL - Estadio, Hora: 19:30
+Linea: 45, Ruta: Campus UTPL - Sauces Norte, Hora: 20:00
