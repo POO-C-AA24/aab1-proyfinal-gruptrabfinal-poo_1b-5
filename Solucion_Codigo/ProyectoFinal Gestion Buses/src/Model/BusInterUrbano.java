@@ -19,10 +19,7 @@ public class BusInterUrbano extends Buses {
 
     @Override
     public void mostrarInformacion() {
-        System.out.println("Bus Interurbano:");
-        System.out.println("Número: " + getNumero());
-        System.out.println("Ruta: " + getRuta());
-        System.out.println("Hora de Salida: " + getHoraSalida());
+       
     }
 }
 
