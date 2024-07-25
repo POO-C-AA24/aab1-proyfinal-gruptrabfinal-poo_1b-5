@@ -53,13 +53,14 @@ public class ManejodeDataBase {
         String sqlUrbano = "INSERT INTO buses_urbanos(numero, ruta, hora_salida) VALUES\n"
                 + "(22, 'Época - Campus UTPL', '06:30'),\n"
                 + "(8, 'Parque Infantil - Campus UTPL', '07:00'),\n"
-                + "(19, 'Hipervalle - Campus UTPL', '07:30');";
+                + "(19, 'Hipervalle - Campus UTPL', '07:30'),\n"
+                + "(32,'La Paz-Campus UTPL','08:00');";
         String sqlInterUrbano = "INSERT INTO buses_interurbanos(numero, ruta, hora_salida) VALUES\n"
                 + "(21, 'Operadores - Campus UTPL', '06:30'),\n"
                 + "(1, 'Parque Infantil - Campus UTPL', '07:00'),\n"
                 + "(12, 'Tebaida Baja - Campus UTPL', '07:30');";
 
-        try (Connection conn = connect();
+    try (Connection conn = connect();
              Statement stmt = conn.createStatement()) {
             stmt.execute(sqlUrbano);
             stmt.execute(sqlInterUrbano);
