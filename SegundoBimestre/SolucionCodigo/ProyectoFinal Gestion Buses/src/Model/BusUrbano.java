@@ -25,5 +25,3 @@ public class BusUrbano extends Buses {
         System.out.println("Hora de Salida: " + getHoraSalida());
     }
 }
-
-
